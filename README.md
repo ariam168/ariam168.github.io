@@ -1,6 +1,5 @@
 ## Welcome to GitHub Pages
 
-I wonder how easy this actually is?
 
 You can use the [editor on GitHub](https://github.com/ariam168/ariam168.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
